@@ -1,2 +1,3 @@
 myName : Rodrigo
 studies : WD
+goals : Be a good developer and find a job 
